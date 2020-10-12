@@ -1,2 +1,2 @@
 # gamezone
-Game Review from The Net Ninja tutorial with @imshaunjp
+Game Review using react native from The Net Ninja tutorial with @imshaunjp
